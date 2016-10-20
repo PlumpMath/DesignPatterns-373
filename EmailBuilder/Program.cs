@@ -7,27 +7,26 @@ namespace MailBuilder
     {
         public static void Main()
         {
-            Console.WriteLine(Email
-                .GetBuilder()
+            Console.WriteLine(new EmailBuilder()
                 .AddReceiver("Alan@yandex.ru")
                 .SetBody("Hello dear! I know what you did last summer..")
                 .AddCopyReceivers("police@mail.ru")
                 .AddCopyReceivers("fbi@gmail.ru")
                 .AddCopyReceivers("alans_mother@gmail.ru")
                 .SetTitle("Greetings from the past")
-                .Build
+                .GetEmail()
             );
         }
     } 
 
-    public static class Email 
+    public class EmailBuilder 
     {
-        public static ReceiverPartEmail GetBuilder()
+        public BodyPartEmail AddReceiver(string receiver)
         {
-            return new EmailBuilder();
+            return new CustomEmailBuilder().AddReceiver(receiver);
         }
 
-        private class EmailBuilder : ReceiverPartEmail, BodyPartEmail, FullEmail
+        private class CustomEmailBuilder : ReceiverPartEmail, BodyPartEmail, FullEmail
         {
             private HashSet<string> _receiver = new HashSet<string>();
             private string _body = "";
@@ -58,17 +57,14 @@ namespace MailBuilder
                 return this;
             }
 
-            public string Build 
+            public string GetEmail()
             {
-                get
-                { 
-                    return String.Format(
-                        "Receivers: {0}\nBody: {1}\nTitle: {2}\nSend copy to: {3}", 
-                        String.Join("; ", _receiver),
-                        _body,
-                        _title,
-                        String.Join("; ", _copyReceivers));
-                }
+                return String.Format(
+                    "Receivers: {0}\nBody: {1}\nTitle: {2}\nSend copy to: {3}", 
+                    String.Join("; ", _receiver),
+                    _body,
+                    _title,
+                    String.Join("; ", _copyReceivers));
             }
         }
     }
@@ -89,7 +85,7 @@ namespace MailBuilder
     {
         FullEmail AddCopyReceivers(string otherReceiver);
         FullEmail SetTitle(string title);
-        string Build { get; }
+        string GetEmail();
     }
 
     #endregion
