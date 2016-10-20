@@ -7,73 +7,80 @@ namespace MailBuilder
     {
         public static void Main()
         {
-            Console.WriteLine(
-                new EmailBuilder()
-                    .AddReceiver("Send to me")
-                    .SetBody("This is Boooody")
-                    .AddCopyReceivers("Other_1")
-                    .AddCopyReceivers("Other_2")
-                    .AddCopyReceivers("Other_3")
-                    .SetTitle("Super TITLE")
-                    .Build
+            Console.WriteLine(Email
+                .GetBuilder()
+                .AddReceiver("Alan@yandex.ru")
+                .SetBody("Hello dear! I know what you did last summer..")
+                .AddCopyReceivers("police@mail.ru")
+                .AddCopyReceivers("fbi@gmail.ru")
+                .AddCopyReceivers("alans_mother@gmail.ru")
+                .SetTitle("Greetings from the past")
+                .Build
             );
         }
     } 
-    public class EmailBuilder : Receiver, Body, FullEmail
+
+    public static class Email 
     {
-        private HashSet<string> _receiver = new HashSet<string>();
-        private string _body = "";
-        private HashSet<string> _copyReceivers = new HashSet<string>();
-        private string _title = "";
-
-        public EmailBuilder() {}
-
-        public Body AddReceiver(string receiver)
+        public static ReceiverPartEmail GetBuilder()
         {
-            _receiver.Add(receiver);
-            return this;
+            return new EmailBuilder();
         }
 
-        public FullEmail SetBody(string body)
+        private class EmailBuilder : ReceiverPartEmail, BodyPartEmail, FullEmail
         {
-            _body = body;
-            return this;
-        }
+            private HashSet<string> _receiver = new HashSet<string>();
+            private string _body = "";
+            private HashSet<string> _copyReceivers = new HashSet<string>();
+            private string _title = "";
 
-        public FullEmail AddCopyReceivers(string otherReceiver)
-        {
-            _copyReceivers.Add(otherReceiver);
-            return this;
-        }
+            public BodyPartEmail AddReceiver(string receiver)
+            {
+                _receiver.Add(receiver);
+                return this;
+            }
 
-        public FullEmail SetTitle(string title)
-        {
-            _title = title;
-            return this;
-        }
+            public FullEmail SetBody(string body)
+            {
+                _body = body;
+                return this;
+            }
 
-        public string Build 
-        {
-            get
-            { 
-                return String.Format(
-                    "Receiver: {0}\nBody: {1}\nTitle: {2}\nCopy: {3}", 
-                    _receiver,
-                    _body,
-                    _title,
-                    String.Join("; ", _copyReceivers));
+            public FullEmail AddCopyReceivers(string otherReceiver)
+            {
+                _copyReceivers.Add(otherReceiver);
+                return this;
+            }
+
+            public FullEmail SetTitle(string title)
+            {
+                _title = title;
+                return this;
+            }
+
+            public string Build 
+            {
+                get
+                { 
+                    return String.Format(
+                        "Receivers: {0}\nBody: {1}\nTitle: {2}\nSend copy to: {3}", 
+                        String.Join("; ", _receiver),
+                        _body,
+                        _title,
+                        String.Join("; ", _copyReceivers));
+                }
             }
         }
     }
 
     #region Interfaces
 
-    public interface Receiver
+    public interface ReceiverPartEmail
     {
-        Body AddReceiver(string receiver);
+        BodyPartEmail AddReceiver(string receiver);
     }
 
-    public interface Body
+    public interface BodyPartEmail
     {
         FullEmail SetBody(string body);
     }
