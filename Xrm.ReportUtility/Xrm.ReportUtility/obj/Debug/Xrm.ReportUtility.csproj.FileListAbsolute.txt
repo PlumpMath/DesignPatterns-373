@@ -1,0 +1,56 @@
+C:\Users\sam\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Xrm.ReportUtility.exe.config
+C:\Users\sam\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Xrm.ReportUtility.exe
+C:\Users\sam\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Xrm.ReportUtility.pdb
+C:\Users\sam\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.csprojResolveAssemblyReference.cache
+C:\Users\sam\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.exe
+C:\Users\sam\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.pdb
+D:\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Xrm.ReportUtility.exe.config
+D:\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.exe
+D:\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.pdb
+D:\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.csprojResolveAssemblyReference.cache
+D:\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Xrm.ReportUtility.exe
+D:\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Xrm.ReportUtility.pdb
+D:\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\CsvHelper.dll
+D:\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\CsvHelper.xml
+D:\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Files\table.csv
+D:\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Files\table.txt
+C:\Users\admin.superfish\Desktop\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Xrm.ReportUtility.exe.config
+C:\Users\admin.superfish\Desktop\Xrm.ReportUtility\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.exe
+C:\Users\admin.superfish\Desktop\Xrm.ReportUtility\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.pdb
+C:\Users\admin.superfish\Desktop\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Files\table.csv
+C:\Users\admin.superfish\Desktop\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Files\table.txt
+C:\Users\admin.superfish\Desktop\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Xrm.ReportUtility.exe
+C:\Users\admin.superfish\Desktop\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Xrm.ReportUtility.pdb
+C:\Users\admin.superfish\Desktop\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\CsvHelper.dll
+C:\Users\admin.superfish\Desktop\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\CsvHelper.xml
+C:\Users\admin.superfish\Desktop\Xrm.ReportUtility\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.csprojResolveAssemblyReference.cache
+C:\Users\sam\Downloads\Xrm.ReportUtility.EE\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Xrm.ReportUtility.exe.config
+C:\Users\sam\Downloads\Xrm.ReportUtility.EE\Xrm.ReportUtility\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.exe
+C:\Users\sam\Downloads\Xrm.ReportUtility.EE\Xrm.ReportUtility\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.pdb
+C:\Users\sam\Downloads\Xrm.ReportUtility.EE\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Files\table.csv
+C:\Users\sam\Downloads\Xrm.ReportUtility.EE\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Files\table.txt
+C:\Users\sam\Downloads\Xrm.ReportUtility.EE\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Xrm.ReportUtility.exe
+C:\Users\sam\Downloads\Xrm.ReportUtility.EE\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Xrm.ReportUtility.pdb
+C:\Users\sam\Downloads\Xrm.ReportUtility.EE\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\CsvHelper.dll
+C:\Users\sam\Downloads\Xrm.ReportUtility.EE\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\CsvHelper.xml
+C:\Users\sam\Downloads\Xrm.ReportUtility.EE\Xrm.ReportUtility\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.csprojResolveAssemblyReference.cache
+C:\Users\sam\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Xrm.ReportUtility.exe.config
+C:\Users\sam\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.exe
+C:\Users\sam\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.pdb
+C:\Users\sam\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.csprojResolveAssemblyReference.cache
+C:\Users\sam\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Files\table.csv
+C:\Users\sam\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Files\table.txt
+C:\Users\sam\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Xrm.ReportUtility.exe
+C:\Users\sam\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Xrm.ReportUtility.pdb
+C:\Users\sam\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\CsvHelper.dll
+C:\Users\sam\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\CsvHelper.xml
+g:\MustDo\urfu\AddCourse\patterns\Xrm.ReportUtility\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Xrm.ReportUtility.exe.config
+g:\MustDo\urfu\AddCourse\patterns\Xrm.ReportUtility\Xrm.ReportUtility\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.exe
+g:\MustDo\urfu\AddCourse\patterns\Xrm.ReportUtility\Xrm.ReportUtility\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.pdb
+g:\MustDo\urfu\AddCourse\patterns\Xrm.ReportUtility\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Files\table.csv
+g:\MustDo\urfu\AddCourse\patterns\Xrm.ReportUtility\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Files\table.txt
+g:\MustDo\urfu\AddCourse\patterns\Xrm.ReportUtility\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Xrm.ReportUtility.exe
+g:\MustDo\urfu\AddCourse\patterns\Xrm.ReportUtility\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Xrm.ReportUtility.pdb
+g:\MustDo\urfu\AddCourse\patterns\Xrm.ReportUtility\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\CsvHelper.dll
+g:\MustDo\urfu\AddCourse\patterns\Xrm.ReportUtility\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\CsvHelper.xml
+g:\MustDo\urfu\AddCourse\patterns\Xrm.ReportUtility\Xrm.ReportUtility\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.csprojResolveAssemblyReference.cache
