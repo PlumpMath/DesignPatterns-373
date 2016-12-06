@@ -1,0 +1,6 @@
+G:\MustDo\urfu\AddCourse\patterns\DesignPatterns\State\State\bin\Debug\State.exe.config
+G:\MustDo\urfu\AddCourse\patterns\DesignPatterns\State\State\bin\Debug\State.exe
+G:\MustDo\urfu\AddCourse\patterns\DesignPatterns\State\State\bin\Debug\State.pdb
+G:\MustDo\urfu\AddCourse\patterns\DesignPatterns\State\State\obj\Debug\State.csprojResolveAssemblyReference.cache
+G:\MustDo\urfu\AddCourse\patterns\DesignPatterns\State\State\obj\Debug\State.exe
+G:\MustDo\urfu\AddCourse\patterns\DesignPatterns\State\State\obj\Debug\State.pdb
