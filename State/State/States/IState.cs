@@ -8,7 +8,6 @@ namespace State.States
         void SetDevice(DeviceTypes type, PrintMachine machine);
         void SetDocument(string filename, PrintMachine machine);
         void Print(PrintMachine machine);
-
         int GetChange(PrintMachine machine);
     }
 }

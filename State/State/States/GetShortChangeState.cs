@@ -20,5 +20,14 @@ namespace State.States
         {
             throw new Exception("The change must be taken");
         }
+
+        public override int GetChange(PrintMachine machine)
+        {
+            var deposit = machine.Deposit;
+            machine.State = new InitState();
+            machine.Deposit = 0;
+            machine.Type = DeviceTypes.None;
+            return deposit;
+        }
     }
 }

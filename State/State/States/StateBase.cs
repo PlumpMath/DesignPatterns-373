@@ -11,13 +11,6 @@ namespace State.States
 
         public abstract void Print(PrintMachine machine);
 
-        public virtual int GetChange(PrintMachine machine)
-        {
-            var deposit = machine.Deposit;
-            machine.State = new InitState();
-            machine.Deposit = 0;
-            machine.Type = DeviceTypes.None;
-            return deposit;
-        }
+        public abstract int GetChange(PrintMachine machine);
     }
 }
