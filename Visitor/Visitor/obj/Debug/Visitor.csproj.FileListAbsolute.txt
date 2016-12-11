@@ -1,0 +1,6 @@
+G:\MustDo\urfu\AddCourse\patterns\DesignPatterns\Visitor\Visitor\bin\Debug\Visitor.exe.config
+G:\MustDo\urfu\AddCourse\patterns\DesignPatterns\Visitor\Visitor\bin\Debug\Visitor.exe
+G:\MustDo\urfu\AddCourse\patterns\DesignPatterns\Visitor\Visitor\bin\Debug\Visitor.pdb
+G:\MustDo\urfu\AddCourse\patterns\DesignPatterns\Visitor\Visitor\obj\Debug\Visitor.csprojResolveAssemblyReference.cache
+G:\MustDo\urfu\AddCourse\patterns\DesignPatterns\Visitor\Visitor\obj\Debug\Visitor.exe
+G:\MustDo\urfu\AddCourse\patterns\DesignPatterns\Visitor\Visitor\obj\Debug\Visitor.pdb
